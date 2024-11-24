@@ -5,7 +5,7 @@ I'm Software Engineer and Distributed Systems enthusiast and advocate, driven by
 building systems that are scalable, reliable, and elegantly designed to address complex real-world challenges.
       
       
-## My Engineering Philosophy:
+### My Engineering Philosophy:
     
 At the heart of my work is a passion for collaboration and innovation. I am committed to fostering strong relationships with stakeholders, aligning technical implementations with strategic goals, and facilitating open discussions that drive clarity and collective success. My engineering philosophy is anchored in:            
     
