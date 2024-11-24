@@ -7,7 +7,7 @@ building systems that are scalable, reliable, and elegantly designed to address 
       
 ### My Engineering Philosophy:
     
-At the heart of my work is a passion for collaboration and innovation. I am committed to fostering strong relationships with stakeholders, aligning technical implementations with strategic goals, and facilitating open discussions that drive clarity and collective success. My engineering philosophy is anchored in:            
+ I am committed to fostering strong relationships with stakeholders, aligning technical implementations with strategic goals, and facilitating open discussions that drive clarity and collective success. My engineering philosophy is anchored in:            
     
 **Reliability and Scalability:** Prioritizing designs that grow with the needs of the system and ensuring high availability, even during peak usage.
     
