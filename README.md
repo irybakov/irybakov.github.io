@@ -1,42 +1,18 @@
-# Portfolio Blog Starter
-
-This is a porfolio site template complete with a blog. Includes:
-
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
-
-## Demo
-
-https://portfolio-blog-starter.vercel.app
-
-## How to Use
-
-You can choose from one of the following two methods to use this repository:
-
-### One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/blog&project-name=blog&repository-name=blog)
-
-### Clone and Deploy
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
-
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/blog blog
-```
-
-Then, run Next.js in development mode:
-
-```bash
-pnpm dev
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/templates) ([Documentation](https://nextjs.org/docs/app/building-your-application/deploying)).
+      
+# My Portfolio
+      
+I'm Software Engineer and Distributed Systems enthusiast and advocate, driven by a relentless commitment to 
+building systems that are scalable, reliable, and elegantly designed to address complex real-world challenges.
+      
+      
+## My Engineering Philosophy:
+    
+At the heart of my work is a passion for collaboration and innovation. I am committed to fostering strong relationships with stakeholders, aligning technical implementations with strategic goals, and facilitating open discussions that drive clarity and collective success. My engineering philosophy is anchored in:            
+    
+**Reliability and Scalability:** Prioritizing designs that grow with the needs of the system and ensuring high availability, even during peak usage.
+    
+**Continuous Improvement:** Leveraging DORA metrics and data-driven insights to refine processes, reduce deployment lead times, and improve overall system efficiency.
+    
+**Knowledge Sharing:** Actively contributing to the growth of engineering teams through mentorship, regular learning sessions, and open exchange of ideas
+    
+For me, software engineering isn’t just about writing code; it’s about creating intelligent, adaptable systems that make a lasting impact. My journey is fueled by curiosity, a love for learning, and the drive to turn technical complexity into elegant solutions that resonate with users and businesses alike.
