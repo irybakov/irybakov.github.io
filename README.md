@@ -1,6 +1,4 @@
       
-# My Portfolio
-      
 I'm Software Engineer and Distributed Systems enthusiast and advocate, driven by a relentless commitment to 
 building systems that are scalable, reliable, and elegantly designed to address complex real-world challenges.
       
