@@ -11,6 +11,6 @@ building systems that are scalable, reliable, and elegantly designed to address 
     
 **Continuous Improvement:** Leveraging DORA metrics and data-driven insights to refine processes, reduce deployment lead times, and improve overall system efficiency.
     
-**Knowledge Sharing:** Actively contributing to the growth of engineering teams through mentorship, regular learning sessions, and open exchange of ideas
+**Knowledge Sharing:** Actively contributing to the growth of engineering teams through mentorship, regular learning sessions, and open exchange of ideas and pair programming.
     
 For me, software engineering isn’t just about writing code; it’s about creating intelligent, adaptable systems that make a lasting impact. My journey is fueled by curiosity, a love for learning, and the drive to turn technical complexity into elegant solutions that resonate with users and businesses alike.
